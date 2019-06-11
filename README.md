@@ -1,2 +1,2 @@
 # MachineLearning
-Realization of Machine Learning Algorithm
+Implementation of Basic Machine Learning Algorithm
